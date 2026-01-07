@@ -1,213 +1,128 @@
-# 👋 Welcome to Fikri Alfarizi's Profile
+# 👋 Hello, I'm Fikri Alfarizi
 
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/Fikri-Alfarizi?style=social)](https://github.com/Fikri-Alfarizi)
-[![GitHub stars](https://img.shields.io/github/stars/Fikri-Alfarizi?style=social)](https://github.com/Fikri-Alfarizi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Specialist;Open+Source+Contributor;Laravel+%26+React+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 About Me
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Fikri-Alfarizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Fikri-Alfarizi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+I'm a passionate full-stack developer with a strong focus on frontend technologies. I specialize in building modern, responsive, and user-friendly web applications. As an active open source contributor, I'm committed to creating quality code and giving back to the community.
 
-</div>
+**Location:** Indonesia | **Status:** Open to Collaboration
 
 ---
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-| Language | Proficiency |
-|----------|------------|
-| **JavaScript** | ![90%](https://progress-bar.dev/90) |
-| **Python** | ![85%](https://progress-bar.dev/85) |
-| **TypeScript** | ![80%](https://progress-bar.dev/80) |
-| **Java** | ![75%](https://progress-bar.dev/75) |
-| **C++** | ![70%](https://progress-bar.dev/70) |
-| **HTML/CSS** | ![95%](https://progress-bar.dev/95) |
+## 💻 Core Expertise
 
 ### Frontend Development
-| Technology | Proficiency |
-|-----------|------------|
-| **React** | ![90%](https://progress-bar.dev/90) |
-| **Vue.js** | ![80%](https://progress-bar.dev/80) |
-| **Next.js** | ![85%](https://progress-bar.dev/85) |
-| **Tailwind CSS** | ![95%](https://progress-bar.dev/95) |
-| **Material-UI** | ![85%](https://progress-bar.dev/85) |
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
 
-### Backend & Databases
-| Technology | Proficiency |
-|-----------|------------|
-| **Node.js** | ![90%](https://progress-bar.dev/90) |
-| **Express.js** | ![88%](https://progress-bar.dev/88) |
-| **MongoDB** | ![85%](https://progress-bar.dev/85) |
-| **PostgreSQL** | ![80%](https://progress-bar.dev/80) |
-| **Firebase** | ![85%](https://progress-bar.dev/85) |
+### Backend Development
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
 
-### DevOps & Tools
-| Technology | Proficiency |
-|-----------|------------|
-| **Docker** | ![80%](https://progress-bar.dev/80) |
-| **Git/GitHub** | ![95%](https://progress-bar.dev/95) |
-| **CI/CD** | ![75%](https://progress-bar.dev/75) |
-| **AWS** | ![70%](https://progress-bar.dev/70) |
-
----
-
-## 🌟 Featured Projects
-
-### 🚀 Project Showcase
-
-<div align="center">
-
-#### [E-Commerce Platform](https://github.com/Fikri-Alfarizi/ecommerce-platform)
-A full-stack e-commerce solution with real-time inventory management, payment integration, and analytics dashboard. Built with React, Node.js, and MongoDB for seamless user experience.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-#### [Task Management App](https://github.com/Fikri-Alfarizi/task-manager)
-Collaborative task management application with real-time updates, team workspace, and progress tracking. Features include drag-and-drop interface and notification system.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-#### [Weather Dashboard](https://github.com/Fikri-Alfarizi/weather-dashboard)
-Real-time weather monitoring platform with forecasting, multiple location support, and beautiful UI. Integrated with multiple weather APIs for accurate data.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
----
-
-#### [Data Analytics Dashboard](https://github.com/Fikri-Alfarizi/analytics-dashboard)
-Comprehensive data visualization platform with interactive charts, real-time data processing, and custom report generation for business intelligence.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
+### Tools & Technologies
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 ---
 
-## 🏆 Achievements & Badges
+## 🚀 Key Skills
 
-<div align="center">
-
-![GitHub Badge](https://img.shields.io/badge/GitHub-Expert-green?style=for-the-badge&logo=github)
-![Developer Badge](https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge)
-![Open Source Badge](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)
-![Innovation Badge](https://img.shields.io/badge/Innovation-Leader-orange?style=for-the-badge)
-
-### Certifications & Accomplishments
-- ✅ **Full Stack Development Certification** - Industry Recognized
-- ✅ **AWS Solutions Architect Associate** - Cloud Computing
-- ✅ **JavaScript Expert** - Advanced Problem Solving
-- ✅ **Open Source Contributor** - 50+ Contributions
-- ✅ **Code Quality Champion** - Best Practices
-- 🏅 **10+ Successful Projects** - Production Ready
-- 🎯 **1000+ GitHub Stars** - Community Recognition
-
-</div>
+| Category | Skills |
+|----------|--------|
+| **Frontend** | React, Vue.js, JavaScript/TypeScript, HTML/CSS, Responsive Design, UI/UX Implementation |
+| **Backend** | Laravel, PHP, RESTful APIs, Database Design, Authentication & Authorization |
+| **Full Stack** | End-to-end application development, Microservices, Database Management |
+| **DevOps** | Git, GitHub, Docker, Version Control, CI/CD Basics |
+| **Soft Skills** | Problem Solving, Code Review, Collaboration, Open Source Contribution |
 
 ---
 
-## 📈 Activity Graph
+## 🌟 Open Source Contributions
 
-<div align="center">
+I'm an active contributor to the open source community, believing in the power of collaborative development and knowledge sharing.
 
-[![Fikri Alfarizi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fikri-Alfarizi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🔄 Contributing to various repositories
+- 📚 Learning from community best practices
+- 🤝 Helping others through code and documentation
+- 💡 Sharing insights and solutions with developers worldwide
 
-</div>
-
----
-
-## 💻 What I Do
-
-- 🎨 **Frontend Development**: Creating beautiful, responsive, and user-friendly web interfaces
-- ⚙️ **Backend Development**: Building robust APIs and server-side applications
-- 🗄️ **Database Design**: Designing efficient and scalable database solutions
-- 🚀 **Full Stack Development**: End-to-end application development from concept to deployment
-- 📱 **Responsive Design**: Mobile-first approach for modern web applications
-- 🔧 **DevOps**: CI/CD pipelines, containerization, and cloud deployment
-- 📚 **Open Source**: Contributing to and maintaining open-source projects
+**Contributions Include:**
+- Bug fixes and feature implementations
+- Code quality improvements
+- Documentation enhancements
+- Community support and mentoring
 
 ---
 
-## 🎯 Current Focus
+## 🎓 Professional Highlights
+
+✅ **Frontend-First Approach** - Strong emphasis on user experience and clean code architecture
+
+✅ **Modern Tech Stack** - Proficient in React, Vue.js, and the latest frontend frameworks
+
+✅ **Backend Proficiency** - Solid Laravel experience for robust server-side applications
+
+✅ **Full Stack Capability** - Ability to handle both frontend and backend development seamlessly
+
+✅ **Community Focused** - Active open source contributor and supporter
+
+---
+
+## 📊 Development Focus
 
 ```
-✨ Learning Microservices Architecture
-🤖 Exploring Machine Learning Integration
-☁️ Advancing Cloud Infrastructure Skills
-🔐 Strengthening Security Best Practices
-📊 Mastering Data Analytics
+Frontend Development    ████████████░░░░░░ 80%
+Backend Development    ██████████░░░░░░░░░ 60%
+Open Source Projects   ███████░░░░░░░░░░░░ 50%
+DevOps & Tools        ██████░░░░░░░░░░░░░ 45%
 ```
 
 ---
 
-## 📫 Get In Touch
+## 📫 Let's Connect
 
 <div align="center">
-
-| Channel | Link |
-|---------|------|
-| **GitHub** | [@Fikri-Alfarizi](https://github.com/Fikri-Alfarizi) |
-| **LinkedIn** | [Connect with me](https://linkedin.com) |
-| **Email** | [Send me an email](mailto:your-email@example.com) |
-| **Portfolio** | [Visit my portfolio](https://your-portfolio.com) |
-
+  <a href="https://github.com/Fikri-Alfarizi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/fikri-alfarizi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
 
-## 📊 Repository Statistics
+## 🎨 Theme & Design
 
-<div align="center">
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fikri-Alfarizi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎨 My GitHub Contributions
-
-<div align="center">
-
-![GitHub Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fikri-Alfarizi&theme=tokyo_night)
-
-</div>
+This profile features a **light blue professional theme** (`#4A90E2`) reflecting a modern, clean approach to web development. The design emphasizes clarity, professionalism, and readability.
 
 ---
 
 <div align="center">
-
-### 🙏 Thanks for visiting my profile!
-
-![Profile Views](https://komarev.com/ghpvc/?username=Fikri-Alfarizi&color=blue&style=flat-square)
-
-⭐ Feel free to star my repositories if you find them useful!
-
----
-
-**Last Updated**: 2026-01-07 12:49:38 (UTC)
-
+  <p>
+    <i>Passionate about writing clean code, building amazing applications, and contributing to open source.</i>
+  </p>
+  
+  **Let's build something great together! 🚀**
+  
+  <img src="https://komarev.com/ghpvc/?username=Fikri-Alfarizi&color=4A90E2&style=flat-square" alt="Profile views" />
 </div>

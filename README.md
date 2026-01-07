@@ -1,128 +1,131 @@
-# 👋 Hello, I'm Fikri Alfarizi
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Specialist;Open+Source+Contributor;Laravel+%26+React+Enthusiast" alt="Typing SVG" />
+
+# 👋 Welcome to My GitHub Profile
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 10px; margin: 20px 0;">
+  <div style="background: white; padding: 30px; border-radius: 8px;">
+    <h2>✨ Full-Stack Developer & Open Source Enthusiast</h2>
+    <p>Building innovative solutions and contributing to the developer community</p>
+  </div>
 </div>
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
-I'm a passionate full-stack developer with a strong focus on frontend technologies. I specialize in building modern, responsive, and user-friendly web applications. As an active open source contributor, I'm committed to creating quality code and giving back to the community.
-
-**Location:** Indonesia | **Status:** Open to Collaboration
-
----
-
-## 💻 Core Expertise
-
-### Frontend Development
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</div>
-
-### Backend Development
-<div align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-### Tools & Technologies
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 2px; border-radius: 10px;">
+        <div style="background: white; padding: 20px; border-radius: 8px;">
+          <h3>💼 Professional</h3>
+          <ul>
+            <li>Passionate Developer</li>
+            <li>Problem Solver</li>
+            <li>Tech Enthusiast</li>
+          </ul>
+        </div>
+      </div>
+    </td>
+    <td width="50%">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 2px; border-radius: 10px;">
+        <div style="background: white; padding: 20px; border-radius: 8px;">
+          <h3>🎯 Goals</h3>
+          <ul>
+            <li>Write Clean Code</li>
+            <li>Learn & Grow</li>
+            <li>Help Others</li>
+          </ul>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Key Skills
+## 🛠️ Tech Stack
 
-| Category | Skills |
-|----------|--------|
-| **Frontend** | React, Vue.js, JavaScript/TypeScript, HTML/CSS, Responsive Design, UI/UX Implementation |
-| **Backend** | Laravel, PHP, RESTful APIs, Database Design, Authentication & Authorization |
-| **Full Stack** | End-to-end application development, Microservices, Database Management |
-| **DevOps** | Git, GitHub, Docker, Version Control, CI/CD Basics |
-| **Soft Skills** | Problem Solving, Code Review, Collaboration, Open Source Contribution |
-
----
-
-## 🌟 Open Source Contributions
-
-I'm an active contributor to the open source community, believing in the power of collaborative development and knowledge sharing.
-
-- 🔄 Contributing to various repositories
-- 📚 Learning from community best practices
-- 🤝 Helping others through code and documentation
-- 💡 Sharing insights and solutions with developers worldwide
-
-**Contributions Include:**
-- Bug fixes and feature implementations
-- Code quality improvements
-- Documentation enhancements
-- Community support and mentoring
-
----
-
-## 🎓 Professional Highlights
-
-✅ **Frontend-First Approach** - Strong emphasis on user experience and clean code architecture
-
-✅ **Modern Tech Stack** - Proficient in React, Vue.js, and the latest frontend frameworks
-
-✅ **Backend Proficiency** - Solid Laravel experience for robust server-side applications
-
-✅ **Full Stack Capability** - Ability to handle both frontend and backend development seamlessly
-
-✅ **Community Focused** - Active open source contributor and supporter
-
----
-
-## 📊 Development Focus
-
-```
-Frontend Development    ████████████░░░░░░ 80%
-Backend Development    ██████████░░░░░░░░░ 60%
-Open Source Projects   ███████░░░░░░░░░░░░ 50%
-DevOps & Tools        ██████░░░░░░░░░░░░░ 45%
-```
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/Fikri-Alfarizi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/fikri-alfarizi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 10px; margin: 20px 0;">
+  <div style="background: white; padding: 25px; border-radius: 8px;">
+    <h3>Languages & Tools</h3>
+    <p>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white">
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    </p>
+  </div>
 </div>
 
 ---
 
-## 🎨 Theme & Design
+## 📊 GitHub Statistics
 
-This profile features a **light blue professional theme** (`#4A90E2`) reflecting a modern, clean approach to web development. The design emphasizes clarity, professionalism, and readability.
+<table>
+  <tr>
+    <td width="50%">
+      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 2px; border-radius: 10px;">
+        <div style="background: white; padding: 20px; border-radius: 8px; text-align: center;">
+          <h4>📈 GitHub Stats</h4>
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fikri-Alfarizi&show_icons=true&theme=radical">
+        </div>
+      </div>
+    </td>
+    <td width="50%">
+      <div style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); padding: 2px; border-radius: 10px;">
+        <div style="background: white; padding: 20px; border-radius: 8px; text-align: center;">
+          <h4>🔥 Most Used Languages</h4>
+          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikri-Alfarizi&layout=compact&theme=radical">
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <p>
-    <i>Passionate about writing clean code, building amazing applications, and contributing to open source.</i>
-  </p>
-  
-  **Let's build something great together! 🚀**
-  
-  <img src="https://komarev.com/ghpvc/?username=Fikri-Alfarizi&color=4A90E2&style=flat-square" alt="Profile views" />
+## 🎓 Featured Projects
+
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 2px; border-radius: 10px; margin: 15px 0;">
+  <div style="background: white; padding: 20px; border-radius: 8px;">
+    <h3>🔗 Coming Soon</h3>
+    <p>Check out my repositories for exciting projects and contributions!</p>
+  </div>
+</div>
+
+---
+
+## 📞 Get In Touch
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 10px;">
+  <div style="background: white; padding: 25px; border-radius: 8px; text-align: center;">
+    <h3>Let's Connect! 🤝</h3>
+    <p>
+      <a href="https://github.com/Fikri-Alfarizi" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+      <a href="mailto:your-email@example.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+      <a href="https://linkedin.com/in/fikri-alfarizi" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </p>
+  </div>
+</div>
+
+---
+
+<div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 2px; border-radius: 10px; margin-top: 30px;">
+  <div style="background: white; padding: 20px; border-radius: 8px; text-align: center;">
+    <p><strong>⭐ If you find my work interesting, please consider giving it a star!</strong></p>
+    <p>Made with ❤️ by <strong>Fikri Alfarizi</strong></p>
+  </div>
+</div>
+
 </div>
